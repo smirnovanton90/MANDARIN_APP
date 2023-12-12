@@ -1,0 +1,16 @@
+{
+  "birth_date": "1972-10-02 00:00:00.0000000",
+  "education": "Высшее - специалист",
+  "employment_status": "Работаю по найму полный рабочий день/служу",
+  "job_start_date": "2005-12-01 00:00:00.0000000",
+  "gender": 1,
+  "family_status": "Никогда в браке не состоял(а)",
+  "child_count": 0,
+  "snils": 1,
+  "month_profit": 100000,
+  "month_expense": 10000,
+  "loan_amount": 123000,
+  "loan_term": 18,
+  "merch_code": "6",
+  "goods_category": "Other"
+}
